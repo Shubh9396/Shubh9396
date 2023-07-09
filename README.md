@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubh9396
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Science & Machine Learning
+- 👀 Data Analytics is in my blood
+- 🌱 I’m currently working in Data Science & Machine Learning field
 
 <!---
 Shubh9396/Shubh9396 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
